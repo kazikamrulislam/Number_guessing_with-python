@@ -1,1 +1,2 @@
 print("kkip")
+print("kazi")
