@@ -1,4 +1,4 @@
-<!-- Difficulty Level : Easy
+Difficulty Level : Easy
 Last Updated : 08 Feb, 2021
 Most of the geeks from a CS (Computer Science) background, think of their very first project after doing a Programming Language. Here, you will get your very first project and the basic one, in this article.
 
@@ -28,4 +28,4 @@ For repetitive guessing, a while loop will be initialized.
 If the user guessed a number which is greater than a randomly selected number, the user gets an output “Try Again! You guessed too high“
 Else If the user guessed a number which is smaller than a randomly selected number, the user gets an output “Try Again! You guessed too small”
 And if the user guessed in a minimum number of guesses, the user gets a “Congratulations! ” Output.
-Else if the user didn’t guess the integer in the minimum number of guesses, he/she will get “Better Luck Next Time!” output. -->
+Else if the user didn’t guess the integer in the minimum number of guesses, he/she will get “Better Luck Next Time!” output.
